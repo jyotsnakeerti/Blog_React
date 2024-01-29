@@ -28,6 +28,10 @@ const router = createBrowserRouter([
     element: <Layout/>,
     children: [
       {
+        path: "/Blog_React",
+        element: <Home/>
+      },
+      {
         path:"/",
         element:<Home/>
       },
