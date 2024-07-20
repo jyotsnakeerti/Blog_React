@@ -34,8 +34,15 @@ A full-featured blog website with CRUD (Create, Read, Update, Delete) operations
   - Users can delete a post by clicking a delete button on the post's detail page. A confirmation prompt ensures the user wants to delete the post. Upon confirmation, the delete request is sent to the backend, and the post is removed from the database.
  
 ## Screenshots
+
+- **Sign-in**
 <img width="932" alt="Screenshot 2024-03-10 130358" src="https://github.com/user-attachments/assets/9e1ed509-f1e3-4a2c-9838-fee873fdc914">
+- **Register**
 <img width="943" alt="Screenshot 2024-03-10 130428" src="https://github.com/user-attachments/assets/6967e9d9-5e14-4883-ba10-8bc0b836f027">
+- **Homepage**
 <img width="936" alt="Screenshot 2024-03-10 130208" src="https://github.com/user-attachments/assets/b5e9fbcd-8b04-4739-9d53-e24fb0a9c01b">
-<img width="933" alt="Screenshot 2024-03-10 130306" src="https://github.com/user-attachments/assets/90cc7486-7740-4405-96e4-4ce267ecc0db">
+- **Write Section**
 <img width="938" alt="Screenshot 2024-03-10 130334" src="https://github.com/user-attachments/assets/6d0adfa8-db4c-476b-8d5f-f3acb5c36030">
+- **Edit**
+<img width="933" alt="Screenshot 2024-03-10 130306" src="https://github.com/user-attachments/assets/90cc7486-7740-4405-96e4-4ce267ecc0db">
+
