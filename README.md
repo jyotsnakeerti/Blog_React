@@ -16,7 +16,7 @@ A full-featured blog website with CRUD (Create, Read, Update, Delete) operations
 - User Authentication
 - Create, Read, Update, and Delete blog posts
 - Responsive design
-- Comment system
+- shows similar recommeded posts
 - Categories and tags for posts
 
 ## CRUD operation
